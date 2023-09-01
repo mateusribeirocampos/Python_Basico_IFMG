@@ -1,4 +1,6 @@
-{
+import null as null
+
+var = {
  "cells": [
   {
    "cell_type": "code",
